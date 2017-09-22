@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: The Coupon Collector Problem!
 ---
 
 It is that time of year again! The McDonald's Monopoly Contest is back, and this time around
@@ -25,9 +25,3 @@ There are many variations and special cases that were not discussed, but if you 
 reading more about this topic, a good place to start would be [here](https://probabilityandstats.wordpress.com/tag/coupon-collector-problem/).
 
 ---
-
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
