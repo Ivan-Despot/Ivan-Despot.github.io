@@ -1,6 +1,7 @@
 ---
 layout: post
 title: You're up and running!
+---
 
 It is that time of year again! The McDonald's Monopoly Contest is back, and this time around
 you don't want to settle for a free apple pie or a pack of small fries; you are
